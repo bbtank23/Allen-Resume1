@@ -1,0 +1,67 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .container {
+    margin-top: 20px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #007bff;
+  }
+  
+  h3 {
+    color: #007bff;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Personal Info */
+  .personal-entry {
+    margin-bottom: 15px;
+  }
+  
+  /* Contact Info */
+  .contact-entry {
+    margin-bottom: 15px;
+  }
+  
+  /* Educational Background */
+  .education-entry {
+    margin-bottom: 15px;
+  }
+  
+  /* Work Experience */
+  .work-entry {
+    margin-bottom: 20px;
+  }
+  
+  .work-entry ul {
+    padding-left: 20px;
+  }
+  
+
+  a {
+    color: #007bff;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: #0056b3;
+  }
+
+
+.img-thumbnail {
+    border-radius: 20%;
+  }
+
+  
+  
